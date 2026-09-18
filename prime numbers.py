@@ -1,4 +1,4 @@
-num = 2
+num = int(input("Enter Number to check"))
 flag = False
 if num > 1:
     for i in range(2, num):
